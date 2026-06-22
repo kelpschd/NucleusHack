@@ -1,0 +1,6 @@
+scipy
+scikit-image
+matplotlib
+ipykernel
+jupytext
+numpy<2
