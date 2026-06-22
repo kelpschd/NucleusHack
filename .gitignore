@@ -1,0 +1,39 @@
+# Data — keep images OUT of git
+data/
+*.tif
+*.tiff
+*.czi
+*.nd2
+*.h5
+*.npy
+*.npz
+*.zarr
+*.geff
+
+# Conda / virtual envs
+envs/
+.conda/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Local config / secrets (e.g. DATA_ROOT overrides, AWS creds)
+.env
+*.local
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
