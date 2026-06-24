@@ -4,3 +4,4 @@ matplotlib
 ipykernel
 jupytext
 numpy<2
+gdown

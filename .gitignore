@@ -9,6 +9,7 @@ data/
 *.npz
 *.zarr
 *.geff
+ImageList.txt
 
 # Conda / virtual envs
 envs/
