@@ -4,7 +4,7 @@ set -euo pipefail
 ENV_NAME="NucleusHack"
 DATA_DIR="./data"
 DATA_MARKER="$DATA_DIR/.download_complete"
-GDRIVE_ZIP_ID="1LEGZg3Lu6w8_pTpso6RbZYEzGbOOrSTx"
+GDRIVE_ZIP_ID="1FmQvgxX_bjb0_V_-ZvYmgQMEFL14FPyA"
 
 # Make `conda activate` work inside a script
 source "$(conda info --base)/etc/profile.d/conda.sh"

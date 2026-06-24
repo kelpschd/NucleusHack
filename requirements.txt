@@ -3,5 +3,7 @@ scikit-image
 matplotlib
 ipykernel
 jupytext
-numpy<2
+numpy
 gdown
+pandas
+imagecodecs
