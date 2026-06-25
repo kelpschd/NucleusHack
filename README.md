@@ -6,4 +6,4 @@ Please run the setup script to create the environment this project.
 source setup.sh
 ```
 
-Then run the `.ipynb` notebook
+Then run the `NucleusHack.ipynb` notebook
