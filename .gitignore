@@ -10,6 +10,9 @@ data/
 *.zarr
 *.geff
 ImageList.txt
+ImageList_AllCh.txt
+4405a3b2-6b88-49b1-91f3-992e09ccbd16/
+data.zip
 
 # Conda / virtual envs
 envs/
